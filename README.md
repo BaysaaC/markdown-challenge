@@ -11,10 +11,11 @@
 
 ### Hi, I'm Baysaa, I live in Belgium and I'm learning Web Development at BeCode Liège Campus.
 
-| Birthday: | 05/10 |
-| Favorite color: | Green |
-| Favorite food: | Mom's spaghetti|
-| Pineapple on pizza: | [] `Yes`   [x]`No way !` |
+
+Birthday: | 05/10 |
+Favorite color: | Green |
+Favorite food: | Mom's spaghetti|
+Pineapple on pizza: | [] `Yes`   [x]`No way !` |
 
 -----------------------------------------------
 
@@ -35,15 +36,15 @@
 - you need someone to talk to without fearing of being judged 
 
 
-### A funny story (smaller header)
+### *And now, a little funny story ...*
 
 When I was a kid, while playing and running around with other kids, I ran into a window (hidden behind blind shutters) and broke it. 
 
 When asked by the school director, I then pretended I slipped and crashed accidentally.
 
-#### TL;DR (even smaller header, under funny story)
+#### TL;DR:
 
-Don't run into windows, kiddos.
+Don't run into windows, kiddos !
 
 
 ! IMPORTANT -> At the bottom of the page there should be a next and previous link, this should link to the page of the previous student (alphabetically) and the next one.
@@ -51,4 +52,4 @@ Organise yourself so it is easy to know who you should link to.
 
 The links should have the following structure:
 
-<< previous || YOUR NAME || next >>
+[<< previous]() || [Baysaa](https://github.com/Baysaaaa/markdown-challenge/blob/master/README.md) || [next]() >>
