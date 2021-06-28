@@ -1,36 +1,50 @@
-# Bayasgalan CHULUUNBAATAR *a.k.a.* Baysaa
+# Personal intro
 ------------------------------------------
+
+## Bayasgalan CHULUUNBAATAR *a.k.a.* Baysaa
+
 >*"Do it ! Just, Do it !! Don't let your dreams be dreams !" -Shia LaBeouf*
 
 ![Profile picture](PhotoBCH.jpg "Baysaa")
 
 -----------------------------------------------
 
-## Hi, I'm Baysaa, I live in Belgium and I'm learning Web Development.
+### Hi, I'm Baysaa, I live in Belgium and I'm learning Web Development at BeCode Liège Campus.
 
-|Birthday| 05/10|
-|Favorite color| Green|
-|Favorite food| Mom's spaghetti|
-|Pineapple on pizza| [] `Yes`   [x]`No way !`|
+| Birthday: | 05/10 |
+| Favorite color: | Green |
+| Favorite food: | Mom's spaghetti|
+| Pineapple on pizza: | [] `Yes`   [x]`No way !` |
+
+-----------------------------------------------
+
+### Hobbies
+
+- Internet
+- Video Games
+- Educational videos from:
+  - Youtube creators
+  - TED Talks
+  - Documentaries
+
+### You can always count on me when...
+
+- you bring the ca$h, bab€ ! *(I'm joking)*
+- Google won't be your friend ;(
+- you need some basic PowerPoint-related tips
+- you need someone to talk to without fearing of being judged 
 
 
-Hobbies (smaller header)
+### A funny story (smaller header)
 
-This should contain a bullet list of your hobbies
-At least on item should contain a sublist, for example if you like movies, maybe make a sublist of some movies you really like.
+When I was a kid, while playing and running around with other kids, I ran into a window (hidden behind blind shutters) and broke it. 
 
-You can always count on me when... (smaller header)
+When asked by the school director, I then pretended I slipped and crashed accidentally.
 
-Tell your teammates which positive contribution to the group you will make.
-This could be technical, making people feel comfortable, being an organiser...
+#### TL;DR (even smaller header, under funny story)
 
-A funny story (smaller header)
+Don't run into windows, kiddos.
 
-Tell a short funny story about your life.
-
-TL;DR (even smaller header, under funny story)
-
-Summarise your funny story in one short sentence.
 
 ! IMPORTANT -> At the bottom of the page there should be a next and previous link, this should link to the page of the previous student (alphabetically) and the next one.
 Organise yourself so it is easy to know who you should link to.
