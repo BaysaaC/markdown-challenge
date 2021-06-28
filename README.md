@@ -16,7 +16,7 @@
 | --- | --- |
 | Favorite color: | Green |
 | Favorite food: | Mom's spaghetti|
-| Pineapple on pizza: | [] `Yes`   [x]`No way !` |
+| Pineapple on pizza: | [] Yes   [x]No way ! |
 
 -----------------------------------------------
 
