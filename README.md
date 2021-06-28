@@ -16,7 +16,7 @@
 | --- | --- |
 | Favorite color: | Green |
 | Favorite food: | Mom's spaghetti|
-| Pineapple on pizza: | [] Yes   [x]No way ! |
+| Pineapple on pizza: | &#9744; Yes </br>&#9745;No way ! |
 
 -----------------------------------------------
 
@@ -39,7 +39,7 @@
 
 ### *And now, a little funny story ...*
 
-When I was a kid, while playing and running around with other kids, I ran into a window (hidden behind blind shutters) and broke it. 
+When I was a kid, while playing around with other kids, I ran into a window (hidden behind blind shutters) and broke it. 
 
 When asked by the school director, I then pretended I slipped and crashed accidentally.
 
@@ -47,6 +47,6 @@ When asked by the school director, I then pretended I slipped and crashed accide
 
 Don't run into windows, kiddos !
 
-### Check also our gang:
+### Check also our Liège gang:
 
-[<< previous](https://github.com/audricSki-v/markdown-challenge) || [Baysaa](https://github.com/Baysaaaa/markdown-challenge/blob/master/README.md) || [next](https://github.com/corentinIstace/markdown-challenge) >>
+[<< previous](https://github.com/audricSki-v/markdown-challenge) || [Baysaa](https://github.com/Baysaaaa/markdown-challenge/blob/master/README.md) || [next >>](https://github.com/corentinIstace/markdown-challenge)
