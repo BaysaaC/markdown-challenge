@@ -12,10 +12,11 @@
 ### Hi, I'm Baysaa, I live in Belgium and I'm learning Web Development at BeCode Liège Campus.
 
 
-Birthday: | 05/10 |
-Favorite color: | Green |
-Favorite food: | Mom's spaghetti|
-Pineapple on pizza: | [] `Yes`   [x]`No way !` |
+| Birthday: | 05/10 |
+| --- | --- |
+| Favorite color: | Green |
+| Favorite food: | Mom's spaghetti|
+| Pineapple on pizza: | [] `Yes`   [x]`No way !` |
 
 -----------------------------------------------
 
@@ -46,10 +47,6 @@ When asked by the school director, I then pretended I slipped and crashed accide
 
 Don't run into windows, kiddos !
 
+### Check also our gang:
 
-! IMPORTANT -> At the bottom of the page there should be a next and previous link, this should link to the page of the previous student (alphabetically) and the next one.
-Organise yourself so it is easy to know who you should link to.
-
-The links should have the following structure:
-
-[<< previous]() || [Baysaa](https://github.com/Baysaaaa/markdown-challenge/blob/master/README.md) || [next]() >>
+[<< previous](https://github.com/audricSki-v/markdown-challenge) || [Baysaa](https://github.com/Baysaaaa/markdown-challenge/blob/master/README.md) || [next](https://github.com/corentinIstace/markdown-challenge) >>
