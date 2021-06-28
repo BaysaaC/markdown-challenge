@@ -2,7 +2,7 @@
 ------------------------------------------
 >*"Do it ! Just, Do it !! Don't let your dreams be dreams !" -Shia LaBeouf*
 
-![Profile picture](Downloads/PhotoBCH.jpg "Baysaa")
+![Profile picture](PhotoBCH.jpg "Baysaa")
 
 -----------------------------------------------
 
